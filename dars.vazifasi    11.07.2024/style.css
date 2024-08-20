@@ -1,0 +1,32 @@
+.container{
+    max-width: 60%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 20px;
+
+}
+h3{
+    color: blue;
+}
+.p1{
+    margin-left: 25px;
+    margin-top: -36px;
+   
+}
+.p2{
+    margin-left: 75px;
+    margin-top: -34px;
+}
+
+.p3{
+    margin-left: 85px;
+    margin-top: -35px;
+}
+.my_foto{
+    margin-left: 640px;
+    margin-top: -250px;
+}
+
+.my_foto img {
+    border-radius: 10px;
+}
